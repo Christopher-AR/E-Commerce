@@ -80,7 +80,9 @@ This project demonstrates the ability to:
 ## Preview Images
 
 **Overview** - https://github.com/Christopher-AR/E-Commerce-/blob/main/Overview.png
+
 **Filtered via Year Slicer (2017)** - https://github.com/Christopher-AR/E-Commerce-/blob/main/Filtered%20via%20Year%20Slicer%20(2017).png 
+
 **Filtered via Year & Product Category Slicer** - https://github.com/Christopher-AR/E-Commerce-/blob/main/Filtered%20via%20Year%20%26%20Product%20Category%20Slicer.png
 
 
